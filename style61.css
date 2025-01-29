@@ -1,0 +1,188 @@
+.navbar-nav {
+  color: white;
+}
+
+.nav-img {
+  height: 8vh;
+  width: 22vw;
+}
+
+.navbar {
+  background-color: #100829;
+  background-size: cover;
+}
+
+#navItem1 {  
+  font-family: roboto;
+  font-size: 20px;
+  color: white; 
+}
+#navItem2 {  
+  font-family: roboto;
+  font-size: 20px;
+  color: white;
+}
+#navItem3 { 
+  font-family: roboto;
+  font-size: 20px;
+  color: white;
+}
+#navItem4 { 
+  font-family: roboto;
+  font-size: 20px;
+  color: white;
+}
+#navItem5 { 
+  font-family: roboto;
+  font-size: 20px;
+  color: white;
+}
+.banner-section-bg-container {
+  background-image: url("https://assets.ccbp.in/frontend/responsive-website/landing-section-bg.png");
+  background-size: cover;
+  height: 90vh;
+  width: 100%
+}
+.banner-heading {
+  font-size: 32px;
+  color: white;
+  font-family: roboto;
+  font-weight: 200;
+}
+.banner-paragraph {
+  font-size: 28px;
+  color: whitesmoke;
+  font-family: roboto;
+}
+.buttonn {
+  background-color: #FFDDA9;
+  color: #1c123b;
+  border-radius: 10px;
+  height: 48px;
+  width: 110px;
+  font-size: 18px;
+  font-family: roboto;
+  font-weight: 200;
+}
+.banner-span {
+  color: #FFDDA9;
+}
+.logo-section-container {
+  background-color: #f9fbfe;
+  padding: 20px;
+}
+.logo-section-heading {
+  font-size: 28px;
+  font-family: roboto;
+  color: black;
+  padding: 20px;
+}
+.logo-section-image {
+  height: 58px;
+  width: 120px;
+}
+.delivery-section {
+  background-color: white;
+  padding: 30px;
+}
+.delivery-section-img {
+  height: 110px;
+  width: 138px;
+  
+}
+.delivery-section-heading {
+  font-size: 28px;
+  font-family: roboto;
+  font-weight: 200;
+}
+.delivery-section-para {
+  font-size: 20px;
+  font-weight: 200;
+  font-family: roboto;
+  color: #7b8794;
+  
+}
+.tools-section {
+  background-color:#f9fbfe;
+}
+.tools-section-img {
+  height: 320px;
+  width: 428px;
+}
+.tools-section-heading {
+  font-size: 28px;
+  font-family: roboto;
+  font-weight: 200;
+}
+.tools-section-para {
+  font-size: 20px;
+  font-weight: 200;
+  font-family: roboto;
+  color: #7b8794;
+}
+.feature-section {
+  background-color: white;
+}
+.feature-section-heading {
+  font-size: 28px;
+  color: #323f4b;
+  font-family: roboto;
+  font-weight: 300px;
+}
+.feature-section-para {
+  font-size: 20px;
+  font-family: roboto;
+  color: #7b8794;
+}
+.feature-section-image {
+  height: 120px;
+  width: 140px;
+  padding-right: 5px;
+}
+.heading1 {
+  font-size: 24px;
+  color: #323f4b;
+  font-family: roboto;
+  font-weight: 400;
+}
+.para1 {
+  font-size: 18px;
+  font-family: roboto;
+  color:  #7b8794;
+}
+.contact-us-section {
+  background-color: whitesmoke;
+}
+.contact-us-section-heading {
+  text-align: center;
+  color: #183b56;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: 700;
+}
+.contact-us-icon-container {
+  
+  width: 60px;
+  height: 60px;
+  border-radius: 40px;
+  margin: 15px;
+  padding-top: 22px;
+  padding-bottom: 14px;
+  padding-right: 16px;
+  padding-left: 22px;
+}
+.icon {
+  color: #323f4b;
+  font-size: 35px;
+}
+.heading-us {
+  font-size: 18px;
+  color: #1c123b;
+  font-family: roboto;
+}
+.para-us {
+  font-size: 22px;
+  font-family: roboto;
+  color: #100829;
+
+}
